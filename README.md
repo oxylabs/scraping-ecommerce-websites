@@ -50,7 +50,7 @@ username, password = 'USERNAME', 'PASSWORD'
 ```python
 url = "https://sandbox.oxylabs.io/products"
 payload = {
-    'source': 'universal_ecommerce',
+    'source': 'universal',
     'render': 'html',
     'url': url,
 }
@@ -118,7 +118,7 @@ username, password = 'USERNAME', 'PASSWORD'
 url = "https://sandbox.oxylabs.io/products"
 
 payload = {
-    'source': 'universal_ecommerce',
+    'source': 'universal',
     'render': 'html',
     'url': url,
 }
